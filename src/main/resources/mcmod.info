@@ -1,0 +1,16 @@
+[
+{
+  "modid": "chatutils",
+  "name": "Chatutils",
+  "description": "A random collection of things I found useful to have.",
+  "version": "1.0",
+  "mcversion": "1.8.9",
+  "url": "https://tagsdev.nl/",
+  "updateUrl": "",
+  "authorList": ["tags"],
+  "credits": "me (tags)",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
